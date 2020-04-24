@@ -10,3 +10,13 @@ Knowledge Management - UE17CS342
 
 ## Overview
 
+Our project is based on Case study on Knowledge Management of BMW . It looks on the following topics in the project :-
+
+- INTRODUCTION
+- ABOUT BMW MOTORS
+- NEED FOR KM IN BMW MOTORS
+- REQUIREMENTS FOR KNOWLEDGE MANAGEMENT IN BMW
+- METHOD OF IMPLEMENTATION
+- KNOWLEDGE TRANSFER
+- LIMITATIONS OF THE TECHNOLOGY TRANSFER PROCESS
+- SUGGESTIONS
